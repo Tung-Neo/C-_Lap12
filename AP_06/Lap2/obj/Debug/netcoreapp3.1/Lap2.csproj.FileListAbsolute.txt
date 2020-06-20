@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.exe
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.deps.json
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.runtimeconfig.json
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.dll
+C:\Users\ACER\source\repos\AP_06\Lap2\bin\Debug\netcoreapp3.1\Lap2.pdb
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.dll
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.pdb
+C:\Users\ACER\source\repos\AP_06\Lap2\obj\Debug\netcoreapp3.1\Lap2.genruntimeconfig.cache

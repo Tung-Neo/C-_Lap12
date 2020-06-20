@@ -1,0 +1,13 @@
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+D:\C#\AP_11\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+D:\C#\AP_11\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache

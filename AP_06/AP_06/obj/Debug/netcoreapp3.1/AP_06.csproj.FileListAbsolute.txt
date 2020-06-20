@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.exe
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.deps.json
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.runtimeconfig.json
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.dll
+C:\Users\ACER\source\repos\AP_06\AP_06\bin\Debug\netcoreapp3.1\AP_06.pdb
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.dll
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.pdb
+C:\Users\ACER\source\repos\AP_06\AP_06\obj\Debug\netcoreapp3.1\AP_06.genruntimeconfig.cache
